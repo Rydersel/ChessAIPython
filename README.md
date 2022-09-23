@@ -1,5 +1,5 @@
 
-Chess AI in Python
+# Chess AI in Python
 
 AI Uses Alpha-Beta Algorithm
 
